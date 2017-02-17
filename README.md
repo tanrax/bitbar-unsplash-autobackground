@@ -1,0 +1,1 @@
+# bitbar-unsplash-autobackground
